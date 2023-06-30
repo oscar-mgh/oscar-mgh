@@ -29,7 +29,9 @@
 [portfolio]: https://oscar-galindo-portfolio.netlify.app/
 [linkedin]: https://www.linkedin.com/in/oscar-galindo/
 
+<br />
+
 ### Contact me:
 
-[<img align="left" alt="portfolio" src="https://www.pngfind.com/pngs/m/650-6509980_portfolio-luggage-icon-white-png-transparent-png.png" width="28px" />]
-[<img align="left" alt="linkedin" src="https://cdn.icon-icons.com/icons2/2037/PNG/512/in_linked_linkedin_media_social_icon_124259.png" width="28px" />]
+[<img align="left" alt="portfolio" src="https://www.pngfind.com/pngs/m/650-6509980_portfolio-luggage-icon-white-png-transparent-png.png" width="28px" />][portfolio]
+[<img align="left" alt="linkedin" src="https://cdn.icon-icons.com/icons2/2037/PNG/512/in_linked_linkedin_media_social_icon_124259.png" width="28px" />][linkedin]
