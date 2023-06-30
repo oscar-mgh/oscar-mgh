@@ -21,9 +21,9 @@
 [<img align="left" alt="Angular" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_angular_icon_130754.png" width="28px" />][portfolio]
 [<img align="left" alt="Tailwind" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_tailwind_icon_130128.png" width="28px" />][portfolio]
 [<img align="left" alt="Node" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png" width="28px" />][portfolio]
-[<img align="left" alt="Mongo DB" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" width="28px" />][portfolio]
-[<img align="left" alt="Mysql" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" width="28px" />][portfolio]
-[<img align="left" alt="Java" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" width="28px" />][portfolio]
+[<img align="left" alt="Mongo DB" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_mongo_icon_130383.png" width="28px" />][portfolio]
+[<img align="left" alt="Mysql" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_plain_logo_icon_146414.png" width="28px" />][portfolio]
+[<img align="left" alt="Java" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/java_icon_130901.png" width="28px" />][portfolio]
 [<img align="left" alt="Spring Framework" src="https://spring.io/img/spring.svg" width="28px" />][portfolio]
 
 [portfolio]: https://oscar-galindo-portfolio.netlify.app/
@@ -33,5 +33,5 @@
 
 ### Contact me:
 
-[<img align="left" alt="portfolio" src="https://em-content.zobj.net/thumbs/120/whatsapp/352/briefcase_1f4bc.png" width="28px" />][portfolio]
 [<img align="left" alt="linkedin" src="https://cdn.icon-icons.com/icons2/2037/PNG/512/in_linked_linkedin_media_social_icon_124259.png" width="28px" />][linkedin]
+[<img align="left" alt="portfolio" src="https://em-content.zobj.net/thumbs/120/whatsapp/352/briefcase_1f4bc.png" width="28px" />][portfolio]
