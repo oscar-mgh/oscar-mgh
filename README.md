@@ -1,6 +1,6 @@
 ### Hi there, I'm Oscar MG 👋
 
-## Front-end developer! 💻
+## Backend developer! 💻
 - I'm currently learning everything I can about web development
 - Encoraged to work with different technologies
 - I'd love to collaborate as a software developer and always do my best
