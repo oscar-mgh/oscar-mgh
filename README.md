@@ -1,7 +1,7 @@
 ### Hi there, I'm Oscar MG 👋
 
 ## Backend developer! 💻
-- I'm currently learning a lot about web development with .NET
+- I'm currently learning a lot about backend development and microservices
 - Encoraged to work with different technologies
 - I'd love to collaborate as a software developer and always do my best
 - My favorite hobby is playing the guitar and other instruments
