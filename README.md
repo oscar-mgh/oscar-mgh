@@ -1,10 +1,10 @@
 ### Hi there, I'm Oscar MG 👋
 
 ## Backend developer! 💻
-- I'm currently learning a lot about backend development and microservices
+- I'm currently working as a fullstack developer with MEAN stack!
 - Encoraged to work with different technologies
-- I'd love to collaborate as a software developer and always do my best
-- My favorite hobby is playing the guitar and other instruments
+- I do enjoy to collaborate as a software developer and always do my best
+- My favorite hobby is playing the guitar! 🎸
 
 <br />
 
