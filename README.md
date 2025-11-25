@@ -27,6 +27,7 @@
 [Mongo]: https://www.mongodb.com/
 [Postgres]: https://www.mongodb.com/
 [Java]: https://docs.oracle.com/en/java/
+[Vue]: https://vuejs.org/
 [Spring Boot]: https://spring.io/
 
 <br />
