@@ -16,7 +16,7 @@
 [<img align="left" alt="Node" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png" width="28px" />][Node]
 [<img align="left" alt="Mongo DB" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_mongo_icon_130383.png" width="28px" />][Mongo]
 [<img align="left" alt="Postgres" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="28px" />][Postgres]
-[<img align="left" alt="Java" src="https://www.svgrepo.com/show/303654/java-logo.svg" width="28px" />][Java]
+[<img align="left" alt="Java" src="https://cdn.freebiesupply.com/logos/large/2x/java-logo-png-transparent.png" width="28px" />][Java]
 [<img align="left" alt="Spring Boot" src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" width="28px" />][Spring Boot]
 
 [portfolio]: https://omg-portafolio.netlify.app/
