@@ -23,10 +23,11 @@
 [linkedin]: https://www.linkedin.com/in/oscar-galindo/
 [Typescript]: https://www.typescriptlang.org/
 [Angular]: https://angular.dev/
-[React]: https://react.dev/
 [Node]: https://nodejs.org/en
 [Mongo]: https://www.mongodb.com/
-[Postgres]: https://www.postgresql.org/
+[Postgres]: https://www.mongodb.com/
+[Java]: https://docs.oracle.com/en/java/
+[Spring Boot]: https://spring.io/
 
 <br />
 
