@@ -8,7 +8,7 @@ I'm a passionate full-stack developer focused on building clean, scalable, and w
 - **Backend:** Spring Boot (Java)
 - **Frontend:** Angular
 - **Database:** PostgreSQL
-- **Others:** REST APIs, Git, Docker (if applicable)
+- **Others:** Git, Docker, CI/CD, linux (bash)
 
 ### 🔭 What I'm up to
 - Working on **personal projects** to sharpen my full-stack skills
