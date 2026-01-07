@@ -1,10 +1,26 @@
 ### Hi there, I'm Oscar MG 👋
 
-## Full-stack developer! 💻
-- I'm currently working as a fullstack developer with MEAN stack!
-- Encoraged to work with different technologies
-- I do enjoy to collaborate as a software developer and always do my best
-- My favorite hobby is playing the guitar! 🎸
+## Full-Stack Developer 💻
+
+I'm a passionate full-stack developer focused on building clean, scalable, and well-structured applications. I enjoy learning new technologies and continuously improving my skills through hands-on projects.
+
+### 🛠️ Tech Stack
+- **Backend:** Spring Boot (Java)
+- **Frontend:** Angular
+- **Database:** PostgreSQL
+- **Others:** REST APIs, Git, Docker (if applicable)
+
+### 🔭 What I'm up to
+- Working on **personal projects** to sharpen my full-stack skills
+- Exploring best practices in **software architecture and clean code**
+- Open to collaboration and new opportunities
+
+### 🎸 About me
+- I enjoy collaborating with other developers and sharing knowledge
+- Always committed to delivering my best work
+- Guitar player in my free time 🎶
+
+📫 Feel free to check out my repositories or reach out!
 
 <br />
 
