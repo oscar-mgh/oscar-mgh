@@ -1,6 +1,6 @@
 ### Hi there, I'm Oscar MG 👋
 
-## Backend developer! 💻
+## Full-stack developer! 💻
 - I'm currently working as a fullstack developer with MEAN stack!
 - Encoraged to work with different technologies
 - I do enjoy to collaborate as a software developer and always do my best
